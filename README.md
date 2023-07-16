@@ -1,4 +1,4 @@
-### Hey there! 👋
+## Hey there! 👋
 
 I'm Elgin, a first-year Data Science Major @ UC Irvine!  
 
