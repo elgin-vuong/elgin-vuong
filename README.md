@@ -1,6 +1,5 @@
 ## Hey there! 👋
 
-I'm Elgin, a first-year Data Science Major @ UC Irvine!  
 
 <!--
 **elgin-vuong/elgin-vuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
