@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Elgin, a 2nd-year Computer Science Major at UC Irvine!
 
-Feel free to reach out on [Linkedin](https://www.linkedin.com/in/elgin-vuong/) or [email](elginv@uci.edu)!
+**Feel free to reach out on [Linkedin](https://www.linkedin.com/in/elgin-vuong/) or [email](elginv@uci.edu).**  Let's chat!
 
 
 <!--
