@@ -1,6 +1,6 @@
-## Hey there! 👋 I'm Elgin, a 2nd-year studying Computer Science at UC Irvine!
+## Hey there! 👋 I'm Elgin, a third-year student studying Computer Science and Linguistics at UCLA!
 
-**Feel free to reach out on [Linkedin](https://www.linkedin.com/in/elgin-vuong/) or [email](elginv@uci.edu).**  Let's chat!
+**Feel free to reach out on [Linkedin](https://www.linkedin.com/in/elgin-vuong/) or [email](elginvuong@ucla.edu).**  Let's chat!
 
 
 <!--
